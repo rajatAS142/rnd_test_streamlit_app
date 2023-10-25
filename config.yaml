@@ -1,0 +1,13 @@
+cookie:
+  expiry_days: 30
+  key: some_signature_key
+  name: some_cookie_name
+credentials:
+  usernames:
+    jasonm:
+      email: mymail@reckitt.com
+      name: Jason Momoa
+      password: $2b$12$j4bz1T7E6QbkhhUMB.bHr.eUIyYrfbDf7xURHTsv6e3ZoXg8fkOnq
+preauthorized:
+  emails:
+  - melsby@gmail.com
